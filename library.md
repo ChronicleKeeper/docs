@@ -86,7 +86,7 @@ Ansonsten ist das Ergebnis Vergleichbar als würdest du selber den Text schreibe
 
 Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen ao viele es benötigt, dass du dich in deiner Bibliothek zurecht findest. 
 
-Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis.
+Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis und ist so nur für dich.
 
 ## Chat Refresh
 
@@ -95,4 +95,8 @@ Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper akt
 # Gespräche
 
 ?> Neu ab **v0.4-alpha**
+
+Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine gespeicherten Gespräche. 
+
+Du kannst sie so jederzeit wieder aufrufen.
 
