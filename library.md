@@ -59,3 +59,27 @@ Hast du zum Beispiel vor, ein Tagebuch für deinen eigenen Charakter zu schreibe
 in einzelne Dokumente aufzusplitten. Willst du das Wissen zu einer Region notieren und das ist sehr umfangreich, würde
 es sich anbieten, dieses aufzuspalten in allgemeine Informationen, Persönlichkeiten, politische Situation, Händler und
 Knilche, etc.
+
+## Ein Bild Hochladen
+
+Du kannst zu Charakteren, Orten oder was auch immer dur dir vorstellen kannst in deiner Spielwelt Bilder hochladen. In diesem Prozess wird versucht den Inhalt des Bildes umfangreich durch ChatGPT zu beschreiben. Als Basisinformation wird auch der Name des Bildes verwendet, so dass die Bennenung des Bildes in etwas, das es deiner Meinung nach darstellt vor dem Hochladen keine schlechte Idee ist.
+
+Auf Grundlage des Namen des Bildes sucht ChatGPT auch nach bereits bekannten Informationen in deiner Bibliothek, die dabei helfen könnten das Bild richtig einzuordnen. 
+
+Nach diesem Prozess wirst du auf die Seite des neuen Bildes geleitet und du kannst die Beschreibung so anpassen wie es dir beliebt. Die Beschreibung ist am Ende als Hilfestellung in Gesprächen nötig um auf deine Frage mit mehr Informationen antworten zu können und evtl. die Informationen, die du  suchst auch mit diesem anzureichern. 
+
+## Ein Dokument Hochladen
+
+Es ist aktuell möglich Dokumente mit den folgenden Formaten direkt in das System zu laden.
+
+- Einfache Textdateien
+- Markdown
+- Microsoft Word
+
+Gerade bei Dateien aus Word Programmen ist die Umwandlung in das Markdown Format nicht immer gut möglich, da es zu viele Möglichkeiten der Formatierung gibt und gerade MS Word nicht dafür bekannt ist die Rohdaten in sauberem Zustand zu hinterlegen. 
+
+Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren gibt es ergänzend die Funktion den eingelesen Text durch ChatGPT korrigieren und sachgerecht formatieren zu lassen. Inhaltlich wird sich dabei nicht viel verändern. Sollte dir die Formatierung des eingelesen Textes also nicht gefallen kannst du mit dieser Funktion aktiviert das Dokument noch einmal hochladen.
+
+Ansonsten ist das Ergebnis Vergleichbar als würdest du selber den Text schreiben oder per C&P einfügen.
+
+ 
