@@ -82,4 +82,17 @@ Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren 
 
 Ansonsten ist das Ergebnis Vergleichbar als würdest du selber den Text schreiben oder per C&P einfügen.
 
- 
+## Verzeichnis anlegen
+
+Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen ao viele es benötigt, dass du dich in deiner Bibliothek zurecht findest. 
+
+Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis.
+
+## Chat Refresh
+
+Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden muss der Chat einmal mit allen gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, daß dir nicht alle Informationen zur Verfügung gestellt werden können. 
+
+# Gespräche
+
+?> Neu ab **v0.4-alpha**
+
