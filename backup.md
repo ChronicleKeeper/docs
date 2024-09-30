@@ -1,5 +1,8 @@
 # Sicherungen
 
+?> **ab v0.4-alpha** Mit der kommenden Version sind auch [Gespräche](chatbot.md) aus der Bibliothek bestandteil des
+Exportes.
+
 Der Chronicle Keeper ermöglicht den Export deiner aktuellen Daten über die Export-Funktion in den
 [Einstellungen](settings). Diese Funktion solltest du regelmäßig nutzen, da sich das Projekt noch
 in einem frühen Entwicklungsstadium befindet. Es können immer wieder Fehler auftreten, und es besteht

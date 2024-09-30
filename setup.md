@@ -5,14 +5,13 @@ um den Chronicle Keeper im engen Austausch weiterzuentwickeln.
 
 ## Kontakt
 
-Du kannst eine E-Mail an [contact@chronicle-keeper.com](mailto:contact@chronicle-keeper.com) schreiben.
+Du kannst eine E-Mail an [denis.zunke@gmail.com](mailto:denis.zunke@gmail.com) schreiben.
 Weitere Kontaktmöglichkeiten:
 
 - [Twitter / X](https://x.com/DZunke)
 - [GitHub Issues](https://github.com/ChronicleKeeper/ChronicleKeeper/issues)
 
-
-## Vorraussetzungen
+## Voraussetzungen
 
 Der Chronicle Keeper benötigt ein Windows-Betriebssystem. Andere Betriebssysteme werden für die Desktop-Variante
 derzeit nicht unterstützt. Zusätzlich wird ein [API Key von OpenAI](https://platform.openai.com/api-keys) benötigt.
