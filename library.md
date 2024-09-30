@@ -60,43 +60,57 @@ in einzelne Dokumente aufzusplitten. Willst du das Wissen zu einer Region notier
 es sich anbieten, dieses aufzuspalten in allgemeine Informationen, Persönlichkeiten, politische Situation, Händler und
 Knilche, etc.
 
-## Ein Bild Hochladen
+## Ein Bild hochladen
 
-Du kannst zu Charakteren, Orten oder was auch immer dur dir vorstellen kannst in deiner Spielwelt Bilder hochladen. In diesem Prozess wird versucht den Inhalt des Bildes umfangreich durch ChatGPT zu beschreiben. Als Basisinformation wird auch der Name des Bildes verwendet, so dass die Bennenung des Bildes in etwas, das es deiner Meinung nach darstellt vor dem Hochladen keine schlechte Idee ist.
+Du kannst zu Charakteren, Orten oder was auch immer du dir vorstellen kannst in deiner Spielwelt Bilder hochladen.
+In diesem Prozess wird versucht, den Inhalt des Bildes umfangreich durch ChatGPT zu beschreiben. Als Basisinformation
+wird auch der Name des Bildes verwendet, sodass die Benennung des Bildes in etwas, das es deiner Meinung nach
+darstellt, vor dem Hochladen keine schlechte Idee ist.
 
-Auf Grundlage des Namen des Bildes sucht ChatGPT auch nach bereits bekannten Informationen in deiner Bibliothek, die dabei helfen könnten das Bild richtig einzuordnen. 
+Auf Grundlage des Namens des Bildes sucht ChatGPT auch nach bereits bekannten Informationen in deiner Bibliothek, die
+dabei helfen könnten, das Bild richtig einzuordnen.
 
-Nach diesem Prozess wirst du auf die Seite des neuen Bildes geleitet und du kannst die Beschreibung so anpassen wie es dir beliebt. Die Beschreibung ist am Ende als Hilfestellung in Gesprächen nötig um auf deine Frage mit mehr Informationen antworten zu können und evtl. die Informationen, die du  suchst auch mit diesem anzureichern. 
+Nach diesem Prozess wirst du auf die Seite des neuen Bildes geleitet und du kannst die Beschreibung so anpassen, wie es
+dir beliebt. Die Beschreibung ist am Ende als Hilfestellung in Gesprächen nötig, um auf deine Frage mit mehr 
+Informationen antworten zu können und eventuell die Informationen, die du suchst, auch mit diesem anzureichern.
 
-## Ein Dokument Hochladen
+## Ein Dokument hochladen
 
-Es ist aktuell möglich Dokumente mit den folgenden Formaten direkt in das System zu laden.
+Es ist aktuell möglich, Dokumente mit den folgenden Formaten direkt in das System zu laden:
 
 - Einfache Textdateien
 - Markdown
 - Microsoft Word
 
-Gerade bei Dateien aus Word Programmen ist die Umwandlung in das Markdown Format nicht immer gut möglich, da es zu viele Möglichkeiten der Formatierung gibt und gerade MS Word nicht dafür bekannt ist die Rohdaten in sauberem Zustand zu hinterlegen. 
+Gerade bei Dateien aus Word-Programmen ist die Umwandlung in das Markdown-Format nicht immer gut möglich, da es zu 
+viele Möglichkeiten der Formatierung gibt und gerade MS Word nicht dafür bekannt ist, die Rohdaten in sauberem Zustand 
+zu hinterlegen.
 
-Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren gibt es ergänzend die Funktion den eingelesen Text durch ChatGPT korrigieren und sachgerecht formatieren zu lassen. Inhaltlich wird sich dabei nicht viel verändern. Sollte dir die Formatierung des eingelesen Textes also nicht gefallen kannst du mit dieser Funktion aktiviert das Dokument noch einmal hochladen.
+Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren, gibt es ergänzend die Funktion, den 
+eingelesenen Text durch ChatGPT korrigieren und sachgerecht formatieren zu lassen. Inhaltlich wird sich dabei nicht 
+viel verändern. Sollte dir die Formatierung des eingelesenen Textes also nicht gefallen, kannst du mit dieser Funktion 
+aktiviert das Dokument noch einmal hochladen.
 
-Ansonsten ist das Ergebnis Vergleichbar als würdest du selber den Text schreiben oder per C&P einfügen.
+Ansonsten ist das Ergebnis vergleichbar, als würdest du selber den Text schreiben oder per Copy & Paste einfügen.
 
 ## Verzeichnis anlegen
 
-Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen ao viele es benötigt, dass du dich in deiner Bibliothek zurecht findest. 
+Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen, so viele es benötigt, dass du 
+dich in deiner Bibliothek zurechtfindest.
 
 Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis und ist so nur für dich.
 
 ## Chat Refresh
 
-Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden muss der Chat einmal mit allen gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, daß dir nicht alle Informationen zur Verfügung gestellt werden können. 
+Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden, muss der Chat einmal mit allen 
+gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente 
+und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, dass dir 
+nicht alle Informationen zur Verfügung gestellt werden können.
 
-# Gespräche
+## Gespräche
 
 ?> Neu ab **v0.4-alpha**
 
-Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine gespeicherten Gespräche. 
-
-Du kannst sie so jederzeit wieder aufrufen.
-
+Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine 
+gespeicherten Gespräche mit dem Chronicle Keeper. Du kannst sie so jederzeit wieder aufrufen und fortführen. Mehr über
+Gespräche findest du in der [Dokumentation der Gespräche](chatbot).
