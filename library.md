@@ -104,15 +104,28 @@ Ansonsten ist das Ergebnis vergleichbar, als würdest du selber den Text schreib
 ?> Neu ab **v0.4-alpha** - Das Verschieben von Verzeichnissen ist möglich.
 
 Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen, so viele es benötigt, dass du
-dich in deiner Bibliothek zurechtfindest. Jedes Verzeichnis muss dabei einen Titel haben, der für dich sprechend
-anhand der Verzeichnisstruktur ist. Es ist möglich mehrere Verzeichnisse mit dem gleichen Namen zu haben. Hier gibt es
+dich in deiner Bibliothek zurechtfindest. Jedes Verzeichnis muss dabei einen Titel haben, der für dich sprechend anhand
+der Verzeichnisstruktur ist. Es ist möglich, mehrere Verzeichnisse mit dem gleichen Namen zu haben. Hier gibt es
 keinerlei Restriktionen.
 
-Nach dem Anlegen eines Verzeichnisses ist es weiterhin möglich es in der Struktur zu verschieben, indem man es bearbeitet.
-Man hat hier dann den vollständigen Verzeichnisbaum zur Verfügung um das Verzeichnis in ein anderes Verzeichnis zu
-verschieben. Es ist dabei aber nicht möglich das Verzeichnis in seine eigenen Unterverzeichnisse zu verschieben.
+Nach dem Anlegen eines Verzeichnisses ist es weiterhin möglich, es in der Struktur zu verschieben, indem man es
+bearbeitet. Man hat hier dann den vollständigen Verzeichnisbaum zur Verfügung, um das Verzeichnis in ein anderes
+Verzeichnis zu verschieben. Es ist dabei aber nicht möglich, das Verzeichnis in seine eigenen Unterverzeichnisse
+zu verschieben.
 
 Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis und ist so nur für dich.
+
+## Verzeichnis löschen
+
+?> Neu ab **v0.4-alpha** - Das Löschen von Verzeichnissen ist möglich.
+
+Beim Löschen von Verzeichnissen ist eine entscheidende Wahl zu treffen. Will man seine Inhalte in diesem Verzeichnis
+behalten und verschieben oder alle Daten löschen? Entsprechend findet sich auf der Seite, die sich beim Löschen öffnet,
+eine Checkbox, die man aktivieren muss, um das Löschen aller Inhalte dieses Verzeichnisses zu bestätigen. Wird diese
+Checkbox nicht angewählt, dann werden die Inhalte automatisch verschoben, sobald man das Formular anklickt.
+
+Bitte stelle sicher, dass du nicht aus Versehen ein Verzeichnis löschst, das noch wertvolle Inhalte hat. Die Daten sind
+dann unwiderruflich gelöscht, wenn du nicht eine [Sicherung](backup) hast, die du wieder einspielen kannst.
 
 ## Chat Refresh
 
