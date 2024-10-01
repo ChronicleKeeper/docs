@@ -71,46 +71,60 @@ Auf Grundlage des Namens des Bildes sucht ChatGPT auch nach bereits bekannten In
 dabei helfen könnten, das Bild richtig einzuordnen.
 
 Nach diesem Prozess wirst du auf die Seite des neuen Bildes geleitet und du kannst die Beschreibung so anpassen, wie es
-dir beliebt. Die Beschreibung ist am Ende als Hilfestellung in Gesprächen nötig, um auf deine Frage mit mehr 
+dir beliebt. Die Beschreibung ist am Ende als Hilfestellung in Gesprächen nötig, um auf deine Frage mit mehr
 Informationen antworten zu können und eventuell die Informationen, die du suchst, auch mit diesem anzureichern.
 
 ## Ein Dokument hochladen
 
+?> Neu ab **v0.4-alpha** - Das Hochladen von PDF Dateien wird nun unterstützt
+
 Es ist aktuell möglich, Dokumente mit den folgenden Formaten direkt in das System zu laden:
 
 - Einfache Textdateien
+- PDF
 - Markdown
 - Microsoft Word
 
-Gerade bei Dateien aus Word-Programmen ist die Umwandlung in das Markdown-Format nicht immer gut möglich, da es zu 
-viele Möglichkeiten der Formatierung gibt und gerade MS Word nicht dafür bekannt ist, die Rohdaten in sauberem Zustand 
-zu hinterlegen.
+Gerade bei Dateien aus Word-Programmen ist die Umwandlung in das Markdown-Format nicht immer gut möglich, da es zu
+viele Möglichkeiten der Formatierung gibt und gerade MS Word nicht dafür bekannt ist, die Rohdaten in sauberem Zustand
+zu hinterlegen. Auch bei PDFs gibt es das Problem, dass jedes Programm zum Schreiben dieser den Standard etwas anders
+auslegt und entsprechend die Auswertung nicht so einfach ist. Es gibt sogar PDF Dateien mit Text, die gar keinen Text
+beinhalten, sondern dieser als Bild hinterlegt ist. Entsprechend ist es kompliziert ein PDF mit allen Ecken und Kanten
+korrekt in Text umzuwandeln.
 
-Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren, gibt es ergänzend die Funktion, den 
-eingelesenen Text durch ChatGPT korrigieren und sachgerecht formatieren zu lassen. Inhaltlich wird sich dabei nicht 
-viel verändern. Sollte dir die Formatierung des eingelesenen Textes also nicht gefallen, kannst du mit dieser Funktion 
+Um diesem Umstand gerecht zu werden und keinen wirren Texthaufen zu importieren, gibt es ergänzend die Funktion, den
+eingelesenen Text durch ChatGPT korrigieren und sachgerecht formatieren zu lassen. Inhaltlich wird sich dabei nicht
+viel verändern. Sollte dir die Formatierung des eingelesenen Textes also nicht gefallen, kannst du mit dieser Funktion
 aktiviert das Dokument noch einmal hochladen.
 
 Ansonsten ist das Ergebnis vergleichbar, als würdest du selber den Text schreiben oder per Copy & Paste einfügen.
 
-## Verzeichnis anlegen
+## Verzeichnis anlegen & bearbeiten
 
-Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen, so viele es benötigt, dass du 
-dich in deiner Bibliothek zurechtfindest.
+?> Neu ab **v0.4-alpha** - Das Verschieben von Verzeichnissen ist möglich.
+
+Für die Pflege deiner Strukturen in der Bibliothek kannst du neue Verzeichnisse anlegen, so viele es benötigt, dass du
+dich in deiner Bibliothek zurechtfindest. Jedes Verzeichnis muss dabei einen Titel haben, der für dich sprechend
+anhand der Verzeichnisstruktur ist. Es ist möglich mehrere Verzeichnisse mit dem gleichen Namen zu haben. Hier gibt es
+keinerlei Restriktionen.
+
+Nach dem Anlegen eines Verzeichnisses ist es weiterhin möglich es in der Struktur zu verschieben, indem man es bearbeitet.
+Man hat hier dann den vollständigen Verzeichnisbaum zur Verfügung um das Verzeichnis in ein anderes Verzeichnis zu
+verschieben. Es ist dabei aber nicht möglich das Verzeichnis in seine eigenen Unterverzeichnisse zu verschieben.
 
 Die Struktur hat für Gespräche mit dem Chronicle Keeper weiter keine Bewandtnis und ist so nur für dich.
 
 ## Chat Refresh
 
-Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden, muss der Chat einmal mit allen 
-gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente 
-und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, dass dir 
+Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden, muss der Chat einmal mit allen
+gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente
+und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, dass dir
 nicht alle Informationen zur Verfügung gestellt werden können.
 
 ## Gespräche
 
 ?> Neu ab **v0.4-alpha**
 
-Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine 
+Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine
 gespeicherten Gespräche mit dem Chronicle Keeper. Du kannst sie so jederzeit wieder aufrufen und fortführen. Mehr über
 Gespräche findest du in der [Dokumentation der Gespräche](chatbot).
