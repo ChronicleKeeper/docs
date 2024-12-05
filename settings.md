@@ -192,11 +192,18 @@ Die Import- und Export-Funktionen des Chronicle Keepers ermöglichen es dir, all
 Einstellungen und die gespeicherten Gespräche zu sichern und wiederherzustellen. Diese Funktionen sind essenziell,
 um deine Daten zu sichern und bei Bedarf wiederherzustellen.
 
-### Export
+**Allgemein**
+
+In diesem Bereich kannst du deinen [API Key von OpenAI](https://platform.openai.com/api-keys) eintragen oder ändern. Der API Key wird benötigt, um die
+Kommunikation mit ChatGPT zu ermöglichen. Ohne einen gültigen API Key kann der Chronicle Keeper keine Gespräche
+führen.
+
+**Export**
 
 Der Export erstellt ein ZIP-Archiv, das alle relevanten Daten des Chronicle Keepers enthält. Dies umfasst:
 
-- Alle Dokumente und Bilder aus der Bibliothek
+- Alle Dokumente, Bilder und Gespräche aus der Bibliothek
+- Alle Favoriten
 - Alle Einstellungen
 - Alle gespeicherten Gespräche
 
@@ -204,13 +211,13 @@ Speichere das erstellte ZIP-Archiv an einem sicheren Ort.
 
 ?> **Tipp:** Es ist ratsam, regelmäßig Exporte durchzuführen, um deine Daten vor Verlust zu schützen.
 
-### Import
+**Import**
 
 Der Import ermöglicht es dir, eine zuvor exportierte Version des Chronicle Keepers wiederherzustellen. Du solltest
 nur Archive verwenden, die mit dieser Anwendung erstellt wurden. Diese Funktion kann auch genutzt werden, um
 Datenbestände oder -sicherungen von älteren Versionen einzuspielen.
 
-#### Import-Optionen:
+<ins>Import-Optionen</ins>
 
 - **Überschreiben der Einstellungen:** Diese Option überschreibt alle aktuellen Einstellungen mit den Einstellungen aus dem Import-Archiv.
 - **Überschreiben vorhandener Daten (ohne leeren):** Diese Option überschreibt vorhandene Daten in der Bibliothek, ohne diese vorher zu leeren.
