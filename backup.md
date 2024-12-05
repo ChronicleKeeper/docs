@@ -19,7 +19,8 @@ Datenmenge können diese Kosten variieren.
 
 Die Sicherungen umfassen aktuell folgende Daten:
 
-- Deine vollständige Bibliothek inkl. Verzeichnisstrukturen, Dokumenten und Bildern.
+- Deine vollständige Bibliothek inkl. Verzeichnisstrukturen, Dokumenten, Bildern und Gesprächen.
+- Deine aktuelle als Favoriten markierten Dokumente, Bilder und Gespräche.
 - Die konvertierten Daten aus deiner Bibliothek, die für die Kommunikation mit ChatGPT benötigt werden.
 - Deine Einstellungen, einschließlich System-Prompts und Kalender.
 - Die Versionsnummer des Chronicle Keepers, aus der die Daten exportiert wurden.

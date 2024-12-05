@@ -141,3 +141,17 @@ nicht alle Informationen zur Verfügung gestellt werden können.
 Zwischen all deinen Dateien, die deine Gespräche mit dem Chronicle Keeper unterstützen, findest du auch deine
 gespeicherten Gespräche mit dem Chronicle Keeper. Du kannst sie so jederzeit wieder aufrufen und fortführen. Mehr über
 Gespräche findest du in der [Dokumentation der Gespräche](chatbot).
+
+## Favoriten / Shortcuts
+
+?> Neu ab **v0.5-alpha**
+
+In der Bibliothek hast du die Möglichkeit, Dokumente, Bilder und Gespräche als Favoriten zu markieren. Diese werden
+dann in einer Liste im Header hinter dem "Stern" angezeigt. Sie ermöglichen dir einen Schnellzugriff auf die Daten.
+Du kannst hier deine aktuellen Fokuspunkte über den Schnellzugriff leicht erreichen, ohne dich jedes Mal durch die
+Bibliothek zu klicken.
+
+Die Anzahl der Favoriten ist auf 10 beschränkt. Es ist danach nicht mehr möglich, weitere Favoriten hinzuzufügen,
+sondern du musst erst wieder einen Platz freigeben. In der Bibliothek, ebenso wie in der Detailansicht für Dokumente,
+Bilder und Gespräche, findest du auch einen Button mit einem Stern darauf. Ist dieser gefüllt, dann ist das Element
+bereits ein Favorit und ist dieser leer, dann kannst du das Element zu einem Favoriten machen.
