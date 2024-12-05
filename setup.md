@@ -25,7 +25,6 @@ Falls nach 48 Stunden weiterhin nur das "Free Tier" aktiv ist, wende dich an den
 ?> Eine Übersicht über die Zugriffstufen von OpenAI findest du
 [hier](https://platform.openai.com/docs/guides/rate-limits/usage-tiers?context=tier-one).
 
-
 ## Download & Setup
 
 Die aktuellste Version des Chronicle Keepers kannst du auf GitHub herunterladen. In den Releases findest du zu jeder
@@ -34,25 +33,34 @@ Version ein entsprechendes ZIP-Archiv, das die vollständige Anwendung beinhalte
 Die aktuellste Version kannst du hier herunterladen:
 [Chronicle Keeper Releases](https://github.com/ChronicleKeeper/ChronicleKeeper/releases/latest)
 
-Nachdem du das ZIP-Archiv heruntergeladen und entpackt hast, musst du noch einen OpenAI API Key manuell in einer
-Datei hinterlegen. Diese findest du unter `www/.env`. Dort gibt es einen Eintrag `OPENAI_API_KEY`. Hast du deinen Key
-dort hinterlegt, kannst du im entpackten Verzeichnis die Datei `ChronicleKeeper.exe` ausführen.
+Nachdem du das ZIP-Archiv heruntergeladen und entpackt hast, kannst du im entpackten Verzeichnis
+die Datei `ChronicleKeeper.exe` ausführen. Es öffnet sich dann ein Fenster, das im ersten Moment ein wenig länger
+brauchen könnte, bis es geladen ist.
 
-Es öffnet sich dann ein Fenster, das im ersten Moment ein wenig länger brauchen könnte, bis es geladen ist. Und schon
-kannst du loslegen, den Chronicle Keeper in deine Rollenspielerfahrung zu integrieren.
+![Welcome Screen](_media/welcome_page.png)
+
+Herzlichen Glückwunsch. Der Chronicle Keeper ist bereit für dich. Du kannst dich jetzt entscheiden, ob du einen
+Export aus einer vorherigen Version oder eine Sicherung direkt importieren möchtest oder ob du in die Einstellungen
+wechselst.
+
+Solltest du keine Sicherung haben, wirst du in die Einstellungen wechseln müssen und dort direkt auf der Seite
+landen, wo du deinen OpenAI API Key eintragen kannst. Sobald du diesen hinterlegt hast, werden dir im Menü auch
+alle Funktionen freigeschaltet und der Startbildschirm wird nicht mehr weiter angezeigt.
+
+Jetzt kannst du loslegen.
 
 ## Upgrade
 
 Hast du bereits eine Version des Chronicle Keepers am Laufen, musst du für das Upgrade auf eine neue Version die im
-Download & Setup beschriebenen Schritte für die neue Version ausführen. Da deine neue Version dann keinerlei Daten
-beinhaltet, musst du diese noch übertragen.
+Download & Setup beschriebenen Schritte für die neue Version ausführen, wählst aber auf der Startseite aus, dass
+du ein Archiv importieren willst.
 
 Dazu gehst du wie folgt vor:
 
 1. Exportiere deine Daten aus der alten Version. Die Möglichkeit findest du in den [Einstellungen](settings.md).
-2. Das gespeicherte ZIP-Archiv solltest du sicher verwahren, da es auch als Backup deiner Daten dient.
-3. In deiner neuen Version des Chronicle Keeper gehst du in die [Einstellungen](settings.md) und kannst dort nun einen
-4. "Import" ausführen.
+2. Das gespeicherte ZIP-Archiv solltest du sicher verwahren, da es auch als Sicherung deiner Daten dient.
+3. In deiner neuen Version des Chronicle Keepers wählst du den Import des Archivs aus und wählst das zuvor exportierte
+   ZIP-Archiv aus.
 
 Deine Daten sollten nun vollständig in die neue Version geladen sein. Sollte es dabei zu Problemen gekommen sein,
 wende dich bitte an die Entwickler. Verloren gegangen ist nichts, da du auch die alte Version noch hast.
