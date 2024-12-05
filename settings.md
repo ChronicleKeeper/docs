@@ -118,6 +118,9 @@ würde Anfragen wie "Was weißt du über mich?" ermöglichen, da du bereits defi
 Informationen zu dir würden dann aus der Datenbank geladen werden, ohne nach dem Wort "mir" zu suchen, sondern
 dem Namen deines Charakters.
 
+?> **Tipp!** Solltest du mit geändertem oder erweitertem System Prompt deutlich bessere Ergebnisse erzielen als mit
+dem Standard, könntest du diesen auch mit anderen teilen, um den Chronicle Keeper eventuell für alle Nutzer zu verbessern.
+
 ### Funktionen
 
 In diesem Bereich kannst du sehen, welche Funktionen für ChatGPT, den fleißigen Bot im Hintergrund des Chronicle Keepers,
@@ -134,6 +137,14 @@ Fall zu Rate gezogen.
 Neben der reinen Übersicht über die vorhandenen Funktionen kannst du hier auch aktivieren, dass die ausgeführten
 Funktionsaufrufe mit erweiterten Informationen im Gesprächsverlauf angezeigt werden. Das ermöglicht dir ein aktives
 Verfolgen, inwiefern deine Einstellungen sich auf deine Gespräche auswirken.
+
+?> Neu ab **v0.5-alpha**
+
+Was dir aber wirklich helfen kann, deine Ergebnisse mit dem Chronicle Keeper zu verbessern, ist, dass du die Beschreibungen
+der einzelnen Funktionen auch anpassen kannst. ChatGPT wird diese dann erhalten, statt der Standardbeschreibungen.
+
+?> **Tipp!** Solltest du mit geänderten Beschreibungen deutlich bessere Ergebnisse erzielen als mit den Standardbeschreibungen,
+könntest du diese auch mit anderen teilen, um den Chronicle Keeper eventuell für alle Nutzer zu verbessern.
 
 ## Kalender
 
