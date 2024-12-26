@@ -136,7 +136,14 @@ Fall zu Rate gezogen.
 
 Neben der reinen Übersicht über die vorhandenen Funktionen kannst du hier auch aktivieren, dass die ausgeführten
 Funktionsaufrufe mit erweiterten Informationen im Gesprächsverlauf angezeigt werden. Das ermöglicht dir ein aktives
-Verfolgen, inwiefern deine Einstellungen sich auf deine Gespräche auswirken.
+Verfolgen, inwiefern deine Einstellungen sich auf deine Gespräche auswirken. Vor der Aktivierung dieser Funktion werden
+keine Debug-Informationen gespeichert. Entsprechend kannst du für bereits geführte Gespräche dir nicht nachträglich
+ansehen wie sich die Einstellungen deiner Gespräche auf diese ausgewirkt haben. Wenn du die Informationen haben
+möchtest kannst du die Nachverfolgbarkeit aktivieren und dann das Gespräch noch einmal nachstellen oder du führst
+ein neues Gespräch. Es ist anzuraten, dass du diese Einstellung normalerweise nicht aktiv hast, da sich die
+Datenmenge in den Gesprächen deutlich erhöht und du so mit der Zeit feststellen wirst, dass die Gespräche immer träger
+werden. Ein Abschalten der Funktion führt dann nicht dazu, dass die Informationen wieder gelöscht werden, sie werden
+nur nicht angezeigt.
 
 ?> Neu ab **v0.5-alpha**
 

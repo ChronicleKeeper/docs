@@ -129,10 +129,33 @@ dann unwiderruflich gelöscht, wenn du nicht eine [Sicherung](backup) hast, die 
 
 ## Chat Refresh
 
-Damit Änderungen in der Bibliothek für Gespräche mit dem Chronicle Keeper aktiv werden, muss der Chat einmal mit allen
-gemachten Änderungen aktualisiert werden. Dies kann einen Moment dauern, da hier alle veränderten oder neuen Dokumente
-und Bilder in ein für den Chat lesbares Format umgewandelt werden. Das ist wichtig, da es sonst sein kann, dass dir
-nicht alle Informationen zur Verfügung gestellt werden können.
+?> Neu ab **v0.6-alpha** - Die Suche für den Chat wird mit Änderungen an Bildern und Dokumenten automatisch aktualisiert.
+Der Klick auf den Refresh Button ist nicht mehr zwingend erforderlich.
+
+Änderungen an deinen Dokumenten und Bildern werden automatisch mit dem Speichern in deine Gespräche mit dem Chronicle Keeper
+übernommen. Auch bestehende Gespräche werden durch das neue, veränderte oder gelöschte Wissen erweitert. Es kann sein, dass du
+deinem Chronicle Keeper bei Fragen noch einmal explizit sagen musst, dass er in der Bibliothek nachschaut, da er alt und träge
+ist und deshalb nicht immer mitbekommt, dass du dich an den Schränken und Regalen zu schaffen gemacht hast. Wenn man es ihm
+aber sagt schaut er gerne noch einmal nach, da er sich seiner Schwäche bewusst ist.
+
+Die Funktion des gesamten Aktualisieren steht dir in der Bibliothek aber weiterhin zur Verfügung. Wenn du das Gefühl hast, dass
+etwas nicht richtig in den Archiven hinterlegt wurde dann kannst du mit dieser Funktion weiterhin das gesamte Sucharchiv
+aktualisieren. Beachte aber bitte, dass diese Aktion aber etwas Zeit in Anspruch nehmen kann, da das gesamte Archiv erst gelöscht
+und dann für jedes Bild und jedes Dokument neu angelegt wird.
+
+In der Regel sollte das unnötig sein.
+
+## Cache Clear
+
+?> Neu ab **v0.6-alpha** - Die Inhalte der Verzeichnisse werden jetzt Zwischengespeichert um die Aufrufe zu beschleunigen.
+
+Für jedes Verzeichnis in deiner Bibliothek wird ein Inhaltsverzeichnis in den Akten abgelegt. Das Verzeichnis ermöglicht es
+dir die Inhalte in deiner Bibliothek deutlich schneller abzurufen. Mit jeglichen Änderungen an deiner Bibliothek, die das
+Inhaltsverzeichnis irgendwie verändert wird auch das Inhaltsverzeichnis automatisch aktualisiert.
+
+Sollte das aber nach deinem Gefühl einmal nicht funktionieren, hast du in den Aktionen in deiner Bibliothek die Möglichkeit
+alle Inhaltsverzeichnisse in den Müll zu werfen. Sie werden dann nach und nach wieder angelegt, es kann aber sein, dass du
+immer mal einen Moment länger warten musst. Alle Aufrufe danach sollten aber deutlich schneller sein.
 
 ## Gespräche
 
