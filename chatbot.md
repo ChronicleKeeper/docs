@@ -116,3 +116,6 @@ wird dir der Titel und ein Link zum Gespräch.
 Das letzte Icon mit dem Nachrichtensymbol und dem Pluszeichen darauf wird dir erlauben, ein neues Gespräch anzufangen.
 Wichtig ist, dass dies nur ein temporäres Gespräch ist, bis du es aktiv abspeicherst. Ein weiterer Klick auf das Icon würde
 das aktuell offene temporäre Gespräch auch löschen. Es ist also nur ein temporäres Gespräch zur selben Zeit möglich.
+
+Du hast die Möglichkeit beim Anlegen des Gespräches einen Titel zu vergeben, der dann auch beim Speichern genutzt wird, und
+auszuwählen mit welchem Prompt du das Gespräch führen möchtest um dem Gespräch eine gewisse Grundkonfiguration mitzugeben.

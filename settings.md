@@ -100,7 +100,37 @@ aus deiner Bibliothek als Kontextwissen zu dieser Anfrage gegeben wurden.
 
 Es kann etwas dauern, den perfekten Wert zu finden, wenn man unzufrieden ist mit den Ergebnissen.
 
-### System Prompt
+### Prompts (Ab v0.6)
+
+Ein System-Prompt ist eine spezielle Anweisung, die an ChatGPT gegeben wird, bevor das eigentliche Gespräch beginnt.
+Diese Anweisung legt fest, wie ChatGPT auf Anfragen reagieren soll. Sie beeinflusst den Ton, die Art der Antworten und
+welche Informationen bevorzugt verwendet werden. Durch das Anpassen des System-Prompts kann man sicherstellen, dass
+Gespräche in der gewünschten Art geführt werden.
+
+![System Prompts Overview](_media/settings/system_prompts.png)
+
+In den Einstellungen findet sich eine Übersicht aller im Chronicle Keeper vorhandenen Prompts. Verschiedene Anwendungen
+benötigen verschiedene Anweisungen zur Verhaltensweise. Entsprechend hast du hier die Möglichkeit, dir auch eigene Prompts
+anzulegen. Zum Beispiel kann es für Gespräche sinnvoll sein, neben dem System-Prompt, der überwiegend dafür gedacht ist,
+direkt mit deiner Bibliothek zu arbeiten, auch einen Prompt zu haben, der dir mehr hilft, die Welt weiter auszubauen. Du
+kannst natürlich auch angeben, den vom System gegebenen Prompt zu verbessern.
+
+Die hinterlegten Prompts vom Chronicle Keeper können sich mit den weitergehenden Versionen der Software verändern,
+während deine eigenen angelegten Prompts sich niemals verändern, wenn du es nicht willst. Du hast so aber auch die
+Möglichkeit, immer mal einen Blick in die "Empfehlung" zurückzuwerfen und eventuell Dinge für deine eigenen Prompts zu
+übernehmen.
+
+Aktuell ist es möglich, Prompts für folgende Bereiche anzulegen:
+
+**Gespräche**: Definiert das Verhalten des Chronicle Keeper in Gesprächen.
+**Bilder-Upload**: Anweisungen, wie weit deine Bilder beim Hochladen für die initiale Beschreibung ausgewertet werden sollen.
+**Dokumenten-Optimierung**: Wie der Chatbot deine hochgeladenen Dokumente interpretieren und bei aktivierter Optimierung anpassen soll.
+**Mathildes Atelier**: Wie viel in der Bildgenerierung für deinen initialen Arbeitsauftrag aus deiner Bibliothek interpretiert werden soll.
+
+?> **Tipp!** Solltest du mit eigenen Prompts deutlich bessere Ergebnisse erzielen als mit den vom System vorgegebenen, könntest du
+diese auch mit anderen teilen, um den Chronicle Keeper eventuell für alle Nutzer zu verbessern.
+
+### System Prompt (Bis v0.6)
 
 Ein System Prompt ist eine spezielle Anweisung, die an ChatGPT gegeben wird, bevor das eigentliche Gespräch beginnt.
 Diese Anweisung legt fest, wie ChatGPT auf Anfragen reagieren soll. Es beeinflusst den Ton, die Art der Antworten und
