@@ -35,6 +35,7 @@ Einträge mit passendem Namen und passendem Typen ausgewählt.
 Für die einzelnen Einträge in deiner Registratur stehen dir einige Funktionen zur Verfügung.
 
 - Das Wechseln in die Detailansicht eines Eintrages.
+- Das Favorisieren deiner Einträge für den schnellen Zugriff.
 - Das Bearbeiten eines Eintrages.
 - Das Löschen eines Eintrages.
 
@@ -78,6 +79,14 @@ Beziehungen möglich machen können. Mache dazu ein Ticket auf [Github](https://
 
 Da die Beziehungen bi-direktional sind, musst du sie nur einmalig anlegen und hast auf beiden Seiten der Beziehung eine passende Beschreibung
 dieser Beziehung. Du kannst einfach zwischen ihnen herklicken.
+
+## Favoriten / Shortcuts
+
+In der [Bibliothek](library) hast du die Möglichkeit, Dokumente, Bilder und Gespräche als Favoriten zu markieren. Dieses gilt natürlich auch
+für die Einträge in deiner Registratur. Das Stern-Symbol in der Liste oder im Kopf der Detailansicht ermöglichen dir die Verknpfung in
+den Favoriten oder das Entfernen aus dieser Liste.
+
+Beachte bitte, dass die Anzahl der Favoriten weiterhin beschränkt ist auf 10 Einträge.
 
 ## Gespräche
 
