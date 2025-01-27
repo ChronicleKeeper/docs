@@ -4,7 +4,7 @@
 vollständig auf diese bereits neue Version. In vorherigen Versionen war nur ein einzelnes aktives Gespräch möglich.
 
 Der Bereich "Gespräche" im Chronicle Keeper ermöglicht es dir, interaktive Unterhaltungen mit dem Chronicle Keeper zu
-führen und so im Prinzip eine "Suchmaschine" für alle Dokumente und Bilder in deiner Bibliothek zu nutzen. Nur als großes
+führen und so im Prinzip eine "Suchmaschine" für alle Dokumente und Bilder in deiner [Bibliothek](library) zu nutzen. Nur als großes
 Plus wird diese Suchmaschine Informationen interpretieren und in gewünschtem Maße auch weiterspinnen. Warum nicht ganze
 Charaktere auf Basis deiner Welt generieren? Völlig neue NPCs mit Charakterbögen und allem, was wichtig ist, um diese
 in deine Spielwelt einzubinden?
@@ -22,7 +22,7 @@ eine Textbox vorfinden und einige Buttons, die dir weitere Möglichkeiten bieten
 einfach eine beliebige Nachricht an deinen Chronicle Keeper in die Textzeile eingeben und diese abschicken mit einem
 Druck auf Enter oder einem Klick auf "Senden".
 
-Dein Chronicle Keeper wird sich dann auf den Weg machen und einige Regale in deiner Bibliothek durchsuchen, etwas Staub
+Dein Chronicle Keeper wird sich dann auf den Weg machen und einige Regale in deiner [Bibliothek](library) durchsuchen, etwas Staub
 von ihnen abwischen, um den Räumlichkeiten zur Genüge zu kommen, und dann wird er dir eine Antwort auf deine Nachricht
 geben. Je nach Umfang deiner Anfrage kann es durchaus einen Moment dauern, bis du eine Antwort bekommst.
 
@@ -53,7 +53,9 @@ Neben jeder Antwort, am rechten Rand, findest du ein kleines Dokumenten-Icon mit
 verwenden, um den Text, der dir als Antwort gegeben wurde, in ein neues Dokument zu übernehmen, ohne selbst einen Copy-
 and-Paste-Prozess zu starten. Du landest direkt mit dem ausgegebenen Text auf der Seite für die Erstellung eines
 Dokuments. Das kann durchaus nützlich sein, wenn du mit deinem Chronicle Keeper etwas erarbeitet hast und dieses
-gerne in deiner Bibliothek hinterlegt wissen möchtest, um zukünftig auf diesen Inhalt auch zugreifen zu können in Suchen.
+gerne in deiner [Bibliothek](library) hinterlegt wissen möchtest, um zukünftig auf diesen Inhalt auch zugreifen zu können in Suchen.
+Auch wird der Chronicle Keeper Informationen aus deiner [Registratur](database) hinzuziehen um dir eine möglichst sinnvolle
+Antwort zu geben.
 
 ### Nachverfolgbarkeit
 

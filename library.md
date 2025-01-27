@@ -178,3 +178,26 @@ Die Anzahl der Favoriten ist auf 10 beschränkt. Es ist danach nicht mehr mögli
 sondern du musst erst wieder einen Platz freigeben. In der Bibliothek, ebenso wie in der Detailansicht für Dokumente,
 Bilder und Gespräche, findest du auch einen Button mit einem Stern darauf. Ist dieser gefüllt, dann ist das Element
 bereits ein Favorit und ist dieser leer, dann kannst du das Element zu einem Favoriten machen.
+
+## Registratur
+
+?> Neu ab **v0.7-alpha**
+
+Eine Registratur war schon immer eine bewährte Methode, um Informationen strukturiert und schnell nachschlagbar zu hinterlegen.
+Auch der Chronicle Keeper möchte in seinem System eine solche Registratur nutzen und pflegen, um die Arbeit zu erleichtern.
+Weitere Details findest du im Bereich der [Registratur](database).
+
+Die Registratur ermöglicht es, über Schlagworte Verlinkungen zu Dokumenten in der Bibliothek zu erstellen. Diese Verbindungen
+sind bidirektional nutzbar:
+
+1. Von der Registratur zur Bibliothek (über Schlagworte)
+2. Von der Bibliothek zur Registratur (über das Kettenglied-Symbol)
+
+In der Detailansicht deiner Bibliotheksdokumente und -bilder findest du ein Kettenglied-Symbol. Klickst du darauf, werden
+alle Registratureinträge angezeigt, die auf dieses Element verweisen.
+
+**Vorteile**
+
+- Schnelles Auffinden verwandter Inhalte
+- Übersichtliche Verknüpfung von Dokumenten und Registratureinträgen
+- Automatische Aktualisierung der Querverweise
