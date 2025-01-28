@@ -86,8 +86,6 @@ In der [Bibliothek](library) hast du die Möglichkeit, Dokumente, Bilder und Ges
 für die Einträge in deiner Registratur. Das Stern-Symbol in der Liste oder im Kopf der Detailansicht ermöglichen dir die Verknpfung in
 den Favoriten oder das Entfernen aus dieser Liste.
 
-Beachte bitte, dass die Anzahl der Favoriten weiterhin beschränkt ist auf 10 Einträge.
-
 ## Gespräche
 
 Der Chronicle Keeper weiß, dass du in deiner Registratur auch weitergehende Informationen zur Verfügung stellst, die ihm helfen, deine Fragen

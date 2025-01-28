@@ -174,8 +174,7 @@ dann in einer Liste im Header hinter dem "Stern" angezeigt. Sie ermöglichen dir
 Du kannst hier deine aktuellen Fokuspunkte über den Schnellzugriff leicht erreichen, ohne dich jedes Mal durch die
 Bibliothek zu klicken.
 
-Die Anzahl der Favoriten ist auf 10 beschränkt. Es ist danach nicht mehr möglich, weitere Favoriten hinzuzufügen,
-sondern du musst erst wieder einen Platz freigeben. In der Bibliothek, ebenso wie in der Detailansicht für Dokumente,
+Die Anzahl der Favoriten ist auf unbeschränkt. In der Bibliothek, ebenso wie in der Detailansicht für Dokumente,
 Bilder und Gespräche, findest du auch einen Button mit einem Stern darauf. Ist dieser gefüllt, dann ist das Element
 bereits ein Favorit und ist dieser leer, dann kannst du das Element zu einem Favoriten machen.
 
